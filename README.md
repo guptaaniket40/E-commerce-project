@@ -155,7 +155,7 @@ Add it to `.gitignore`.
 
 ## 👨‍💻 Author
 
-Your Name
+Aniket Gupta
 
 ---
 
